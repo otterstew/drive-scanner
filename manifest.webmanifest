@@ -1,0 +1,17 @@
+{
+  "id": "/",
+  "name": "Scanner — to Google Drive",
+  "short_name": "Scanner",
+  "description": "Scan receipts and documents with the camera and save them straight to Google Drive.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#223422",
+  "theme_color": "#223422",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
