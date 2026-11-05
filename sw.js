@@ -1,6 +1,6 @@
 // Keeps the app's own files on the phone so it opens with no signal.
 // Only this site's files are cached; Google requests always go to the network.
-const CACHE = "scanner-v1";
+const CACHE = "scanner-v2";
 const FILES = [
   "./", "index.html", "styles.css", "app.js", "scan.js", "pdf.js", "drive.js", "store.js", "config.js",
   "manifest.webmanifest", "icon.svg", "icon-192.png", "icon-512.png",
